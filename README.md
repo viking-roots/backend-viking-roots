@@ -1,6 +1,6 @@
 # Viking Roots (Capstone-VikingRoots)
 
-**GitHub Repository:** [(https://github.com/KashyapHegdeKota/django-viking-roots)]
+**GitHub Repository:** [(https://github.com/viking-roots/backend-viking-roots)]
 
 ## Project Summary
 **Viking Roots** is a comprehensive heritage and genealogy platform designed to help users document, explore, and preserve their family history. The standout feature is a custom, privacy-focused, CPU-optimized Face Recognition System that automatically identifies individuals in historical and contemporary photos without relying on expensive third-party APIs.
